@@ -39,9 +39,9 @@ Contents
 * [Documentation and Tutorials](http://mxnet.readthedocs.org/en/latest/)
 * [Design Notes](http://mxnet.readthedocs.org/en/latest/architecture/index.html)
 * [Code Examples](example)
-* [Installation](http://mxnet.readthedocs.org/en/latest/how_to/build.html)
+* [Installation](http://mxnet.io/get_started/setup.html)
 * [Pretrained Models](https://github.com/dmlc/mxnet-model-gallery)
-* [Contribute to MXNet](http://mxnet.readthedocs.org/en/latest/how_to/contribute.html)
+* [Contribute to MXNet](http://mxnet.io/community/contribute.html)
 * [Frequent Asked Questions](http://mxnet.readthedocs.org/en/latest/how_to/faq.html)
 
 Features
